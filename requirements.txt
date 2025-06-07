@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+Pillow
+opencv-python
+torch
+numpy
+deepface
+ultralytics
+super-image
+python-multipart
